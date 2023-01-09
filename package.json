@@ -29,7 +29,7 @@
     "dependencies": {
         "@websanova/vue-auth": "^2.21.14-beta",
         "bootstrap-vue": "^2.0.0-rc.15",
-        "luxon": "^1.12.1",
+        "luxon": "^1.28.1",
         "vue-cal": "^1.46.0",
         "vue-datetime": "^1.0.0-beta.10",
         "vue-datetime-picker": "^0.2.1",
